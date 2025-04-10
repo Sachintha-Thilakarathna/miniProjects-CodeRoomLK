@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "name": "Project 000",
+            "description": "Expanding Cards Project using JavaScript | Interactive UI Design",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Bootstrap 5"
+            ],
+            "image": "./assets/images/000.png",
+            "projectPath": "./projects/000/index.html",
+            "ytLink": "https://youtu.be/PZWKgHWfZiY"
+        }
+    ]
+}
