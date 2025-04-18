@@ -25,6 +25,7 @@ img{
     height: 100%;
     width: 80px;
     position: relative;
+    transition: flex-grow 0.5s ease-in-out;
 }
 .container > div > h4{
     position: absolute;
@@ -37,6 +38,7 @@ img{
 }
 .active h4{
     opacity: 1 !important; 
+    transition: opacity 1s ease-in-out;
 }
 /* responsive */
 @media(max-width:768px){
