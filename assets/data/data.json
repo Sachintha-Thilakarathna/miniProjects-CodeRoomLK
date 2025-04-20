@@ -54,6 +54,20 @@
             "image": "./assets/images/003.png",
             "projectPath": "./projects/003/index.html",
             "ytLink": "https://youtu.be/OuD6cU2P-J4?si=2I4gFsRDU1btyv5d"
+        },
+        {
+            "name": "Project 003",
+            "description": "Bootstrap 5 Navbar & Footer | Easy & Responsive",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Bootstrap 5"
+            ],
+            "image": "./assets/images/004.png",
+            "projectPath": "./projects/004/index.html",
+            "ytLink": "https://youtu.be/BasP6eE_0qA?si=qsyIRPnjNbtYv9pP"
         }
     ]
 }
