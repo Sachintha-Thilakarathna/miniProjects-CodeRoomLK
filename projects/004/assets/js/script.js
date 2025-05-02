@@ -71,7 +71,7 @@ function checkGuess(guessValue){
 
     else if(guessValue > 100){
         hint.textContent='Invalid number! The number should be 1-100.'
-        attemptsEl.textContent=`Attempts left: ${attempts-guessCount+1}`
+        attemptsEl.textContent=`Attempts left: ${attempts-0}`
     }
 }
     
