@@ -68,6 +68,20 @@
             "image": "./assets/images/004.png",
             "projectPath": "./projects/004/index.html",
             "ytLink": "https://youtu.be/BasP6eE_0qA?si=qsyIRPnjNbtYv9pP"
+        },
+        {
+            "name": "Todo List web application",
+            "description": "Todo List using JavaScript & Bootstrap 5",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Bootstrap 5"
+            ],
+            "image": "./assets/images/todo.png",
+            "projectPath": "./projects/to do list/index.html",
+            "ytLink": "#"
         }
     ]
 }
